@@ -400,3 +400,8 @@ EXIT;
 - [ ] Backend lancé (`./backend`)
 - [ ] Test de bout en bout : pub → backend → MySQL ✅
 - [ ] Demandé les identifiants MySQL à mon coéquipier BDD
+
+- [ ] 
+ls- l /etc/passwd
+sudo chown mosquitto:mosquitto /etc/mosquitto/passwd
+
