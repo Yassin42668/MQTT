@@ -1,6 +1,8 @@
 # Partie Backend MQTT
 https://stackforge.thrnecore.fr/
 
+tree
+
 ---
 
 # Étape 1 — Mettre à jour le système
